@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Deque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2b2b8c6714bb960668e01990699500551a3998f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Deque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Deque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

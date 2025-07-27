@@ -8,7 +8,7 @@
         private string[] _items;   
         private int _front;
         private int _rear;
-        private int _count;
+        public int Count { get; private set; }
 
         public Deque(int size)
         {
@@ -21,7 +21,31 @@
             _items = new string[size];
             _front = size / 2;
             _rear = _front;
-            _count = 0;
+            Count = 0;
+        }
+
+        public bool IsEmpty => Count == 0;
+        public bool IsFull => Count == _items.Length;
+
+        public bool AddFront(string element)
+        {
+            if (IsFull || _front == 0)
+                return false;
+
+            _front--;
+            _items[_front] = element;
+            Count++;
+            return true;
+        }
+
+        public bool AddRear(string element)
+        {
+            if (IsFull || _rear == _items.Length) return false;
+
+            _items[_rear] = element;
+            Count++;
+            _rear++;
+            return true;
         }
 
 

@@ -1,0 +1,15 @@
+D:\dev\C#\EstruturasDeDados\Deque\bin\Debug\net8.0\Deque.exe
+D:\dev\C#\EstruturasDeDados\Deque\bin\Debug\net8.0\Deque.deps.json
+D:\dev\C#\EstruturasDeDados\Deque\bin\Debug\net8.0\Deque.runtimeconfig.json
+D:\dev\C#\EstruturasDeDados\Deque\bin\Debug\net8.0\Deque.dll
+D:\dev\C#\EstruturasDeDados\Deque\bin\Debug\net8.0\Deque.pdb
+D:\dev\C#\EstruturasDeDados\Deque\obj\Debug\net8.0\Deque.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\EstruturasDeDados\Deque\obj\Debug\net8.0\Deque.AssemblyInfoInputs.cache
+D:\dev\C#\EstruturasDeDados\Deque\obj\Debug\net8.0\Deque.AssemblyInfo.cs
+D:\dev\C#\EstruturasDeDados\Deque\obj\Debug\net8.0\Deque.csproj.CoreCompileInputs.cache
+D:\dev\C#\EstruturasDeDados\Deque\obj\Debug\net8.0\Deque.sourcelink.json
+D:\dev\C#\EstruturasDeDados\Deque\obj\Debug\net8.0\Deque.dll
+D:\dev\C#\EstruturasDeDados\Deque\obj\Debug\net8.0\refint\Deque.dll
+D:\dev\C#\EstruturasDeDados\Deque\obj\Debug\net8.0\Deque.pdb
+D:\dev\C#\EstruturasDeDados\Deque\obj\Debug\net8.0\Deque.genruntimeconfig.cache
+D:\dev\C#\EstruturasDeDados\Deque\obj\Debug\net8.0\ref\Deque.dll
