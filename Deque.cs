@@ -27,6 +27,7 @@
         public bool IsEmpty => Count == 0;
         public bool IsFull => Count == _items.Length;
 
+
         public bool AddFront(string element)
         {
             if (IsFull || _front == 0)
@@ -48,6 +49,20 @@
             return true;
         }
 
+        public string PeekFront()
+        {
+            if (IsEmpty)
+                throw new InvalidOperationException("Deque está vazio");
 
+            return _items[_front];
+        }
+
+        public string PeekRear()
+        {
+            if (IsEmpty)
+                throw new InvalidOperationException("Deque está vazio");
+
+            return _items[_rear - 1];
+        }
     }
 }
